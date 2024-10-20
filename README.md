@@ -5,3 +5,5 @@ We use the simulator [TorusParticles](https://github.com/michaelhallam123/TorusP
 ![image](images/path.png)
 
 Over a long period of time the particle's trajectory is unpredictable. However, over a short period of time there is some scope for predicting the particle's motion. We assess the performance of several models for predicting the particle's trajectory over a small time period.
+
+The data analysis is performed using Python, including various data science packages, and written in a Jupyter Notebook.
